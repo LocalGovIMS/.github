@@ -16,7 +16,3 @@ Barnsley's solution was developed as a replacement to their incumbent suppliers 
 ## Next steps
 
 When the remaining functionality of Beta Phase 1 is ready, we'll be releasing the codebase right here on GitHub. The repository is currently private but will be made public. Right now we're identifying the best open-source license to share it under and we're setting up how we'll manage code contributions as and when updates are required. We're excited to have reached this point.
-
-## Technical information
-
-The solution is built using the .NET Framework, specifically v4.8, and C#. 
